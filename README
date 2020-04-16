@@ -1,0 +1,38 @@
+Full name:c Kiani Brownridge
+SFU student #: 301402199
+
+
+Compilation Instructions
+------------------------
+./test
+
+Running Instructions
+--------------------
+(using fish)
+./test
+
+Key Features
+------------
+Includes confirmation and options to try again at my checkpoints
+Coloured error and success messages 
+
+
+Bugs and Limitations
+--------------------
+
+There is a bug that causes error with adding to the database library function across the database's various methods
+
+
+All People, Websites, and Sources of Help
+-----------------------------------------
+https://stackoverflow.com/questions/15891781/how-to-call-on-a-function-found-on-another-file
+https://stackoverflow.com/questions/7690580/how-to-write-c-inheritance-constructors
+https://stackoverflow.com/questions/253284/how-do-you-inherit-from-a-class-in-a-different-header-file
+https://stackoverflow.com/questions/1283302/user-input-of-integers-error-handling
+https://stackoverflow.com/questions/1127738/cannot-call-member-function-without-object
+https://www.tutorialspoint.com/cplusplus/cpp_switch_statement.htm
+https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm
+https://stackoverflow.com/questions/44500501/how-to-initialize-an-array-using-initializer-list-c
+https://stackoverflow.com/questions/38232496/c-ifstream-and-ofstream-overloading-operator-reading-from-file
+https://stackoverflow.com/questions/61136523/fill-object-from-text-file-c
+

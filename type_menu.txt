@@ -1,0 +1,6 @@
+
+*Types* 
+
+1 Hard cover
+2 Soft cover
+3 Digital

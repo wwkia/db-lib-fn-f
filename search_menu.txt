@@ -1,0 +1,12 @@
+*Search Menu* 
+
+
+1 Title
+2 Author
+3 Date of publication
+4 Book type 
+5 ISBN 10
+6 ISBN 13
+7 Number of pages
+8 Custom search
+9 Exit search 
